@@ -51,6 +51,7 @@ contributor:
   - dcite:DataCollector
   schemaKey: Person
 dateCreated: '2025-10-06T13:12:37.489463+00:00'
+datePublished: '2025-10-29T16:44:38.680917+00:00'
 description: Raw image files of spinal cord histology from Transcriptional dysregulation
   in the spinal cord of SCA3 provides insights into disease mechanisms. These data
   were acquired using basic light microscopy.
@@ -69,6 +70,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001620/versions/draft/assets/
 name: Transcriptional dysregulation in the spinal cord of SCA3 provides insights into
   disease mechanisms
+publishedBy:
+  endDate: '2025-10-29T16:44:38.680917+00:00'
+  id: urn:uuid:33393e62-83e0-4a54-8eab-a61d562173d9
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-10-29T16:44:38.680917+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:b6e5fc84-8bfc-47c7-999f-c4f66e600bfb
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
